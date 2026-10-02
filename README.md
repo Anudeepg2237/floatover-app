@@ -41,4 +41,4 @@ Windows 11, 64-bit. Windows 10 should work too, but hasn't been tested yet.
 
 ---
 
-*Free. An early version, so expect rough edges. No warranty.*
+*Free to use. An early version, so expect rough edges. No warranty.*
